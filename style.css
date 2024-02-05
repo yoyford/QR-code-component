@@ -9,12 +9,13 @@ body{
     flex-direction: column;
     align-items: center;
     background-color: hsl(0, 0%, 100%);
-    width: 400px;
+    width: 350px;
     border-radius: 25px;
     place-items: center;
     padding: 25px;
     text-align: center;
     margin-top: 150px;
+    padding-bottom: 40px;
 }
 .text_body {
     width: 90%;
@@ -23,17 +24,17 @@ body{
 .text_body p{
     font-family: 'Outfit', sans-serif;
     opacity: 0.5;
-    font-size: 18px;
+    font-size: 16px;
     width: 93%;
     color: hsl(218, 44%, 22%);
 }
 .h1_title{
     font-family: 'Outfit', sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     color: hsl(218, 44%, 22%);
 }
 .qr_style{
-    width: 390px;
+    width: 350px;
     height: auto;
     border-radius: 14px;
 }
