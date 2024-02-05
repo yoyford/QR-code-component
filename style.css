@@ -14,8 +14,9 @@ body{
     place-items: center;
     padding: 25px;
     text-align: center;
-    margin-top: 150px;
+    margin-top: 250px;
     padding-bottom: 40px;
+    box-shadow: 2px 0px 10px #dadada;
 }
 .text_body {
     width: 90%;
@@ -24,9 +25,11 @@ body{
 .text_body p{
     font-family: 'Outfit', sans-serif;
     opacity: 0.5;
-    font-size: 16px;
+    font-size: 17px;
     width: 93%;
     color: hsl(218, 44%, 22%);
+    padding-left: 20px;
+    font-weight: 100;
 }
 .h1_title{
     font-family: 'Outfit', sans-serif;
