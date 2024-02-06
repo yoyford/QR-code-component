@@ -2,6 +2,8 @@ body{
     background-color: hsl(212, 45%, 89%);
     display: flex;
     justify-content: center;
+    align-items: center;
+    min-height: 100svh;
 
 }
 .qrcode_body{
@@ -14,7 +16,6 @@ body{
     place-items: center;
     padding: 25px;
     text-align: center;
-    margin-top: 250px;
     padding-bottom: 40px;
     box-shadow: 2px 0px 10px #dadada;
 }
@@ -40,4 +41,7 @@ body{
     width: 350px;
     height: auto;
     border-radius: 14px;
+    display: block;
+    max-width: 100%;
+
 }
