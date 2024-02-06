@@ -40,5 +40,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Twitter - [@yoytrades](https://www.twitter.com/yourusername)
+- Twitter - [@yoytrades](https://www.twitter.com/yoytrades)
 
